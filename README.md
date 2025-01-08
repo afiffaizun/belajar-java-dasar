@@ -1,7 +1,7 @@
 
 # Belajar Java Dasar
 
-Konsep-konsep Dasar Java
+Konsep Dasar Java
 
 ### Materi yang Dipelajari
 
